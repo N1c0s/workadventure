@@ -1,0 +1,78 @@
+{
+    "activeFile": "pessac2.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "map.json": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 741.3333333333333,
+                "y": 477.33333333333337
+            }
+        },
+        "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "pessac0.json": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 665.3333333333333,
+                "y": 841.3333333333333
+            }
+        },
+        "pessac0.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "pessac0.json#office_1": {
+            "scaleInDock": 1
+        },
+        "pessac1.json": {
+            "scale": 0.7157386363636363,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 940.2873700087323,
+                "y": 540.7001667063587
+            }
+        },
+        "pessac1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "pessac1.json#office_1": {
+            "scaleInDock": 1
+        },
+        "pessac2.json": {
+            "scale": 0.75,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 785.3333333333333,
+                "y": 937.3333333333333
+            }
+        },
+        "pessac2.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "pessac2.json#office_1": {
+            "scaleInDock": 1
+        }
+    },
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "pessac0.json",
+        "pessac1.json",
+        "pessac2.json"
+    ],
+    "project": "Pessac.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "pessac0.json",
+        "pessac1.json",
+        "pessac2.json",
+        "map.json"
+    ]
+}
