@@ -1,9 +1,23 @@
 {
-    "activeFile": "pessac2.json",
+    "activeFile": "pessac0.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
+        "C:/Users/nsonnier/workadventure-map-starter-kit/map.json": {
+            "scale": 0.6455681818181818,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 847.3156134483365,
+                "y": 542.93258229185
+            }
+        },
+        "C:/Users/nsonnier/workadventure-map-starter-kit/map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/nsonnier/workadventure-map-starter-kit/map.json#office_1": {
+            "scaleInDock": 1
+        },
         "map.json": {
             "scale": 0.75,
             "selectedLayer": 3,
@@ -22,8 +36,8 @@
             "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 665.3333333333333,
-                "y": 841.3333333333333
+                "x": 848,
+                "y": 608
             }
         },
         "pessac0.json#floortileset": {
@@ -36,8 +50,8 @@
             "scale": 0.7157386363636363,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 940.2873700087323,
-                "y": 540.7001667063587
+                "x": 846.6777804239105,
+                "y": 609.160911328094
             }
         },
         "pessac1.json#floortileset": {
@@ -50,8 +64,8 @@
             "scale": 0.75,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 785.3333333333333,
-                "y": 937.3333333333333
+                "x": 847.9999999999999,
+                "y": 607.3333333333334
             }
         },
         "pessac2.json#floortileset": {
@@ -65,14 +79,16 @@
     "openFiles": [
         "pessac0.json",
         "pessac1.json",
-        "pessac2.json"
+        "pessac2.json",
+        "C:/Users/nsonnier/workadventure-map-starter-kit/map.json"
     ],
     "project": "Pessac.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "pessac2.json",
         "pessac0.json",
         "pessac1.json",
-        "pessac2.json",
+        "C:/Users/nsonnier/workadventure-map-starter-kit/map.json",
         "map.json"
     ]
 }
